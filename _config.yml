@@ -1,5 +1,9 @@
 title: <p align="center"> Dhruvil Sheth </p>
-logo: /assets/img/logo.png
+# logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/dhruvil-sheth-9b8b11140">LinkedIn</a>
   
   <br>   
   I'm working on React Native.
